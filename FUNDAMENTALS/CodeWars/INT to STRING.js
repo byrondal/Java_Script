@@ -1,3 +1,3 @@
-function intNumber (number){
-    return numberString = int.toString(intNumber)
-}
+function numberToString(num) {
+    return num.numberToString();
+  }
