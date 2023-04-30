@@ -6,5 +6,5 @@ function sum(numberOne, numberTwo){
     }
 }
 
-console.log(sum(2,6));
+console.log(`El numero mas alto es: `, sum(2,6));
 
